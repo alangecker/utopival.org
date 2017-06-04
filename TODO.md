@@ -1,4 +1,14 @@
+- newsletter
+- Idee
 
 - Rückblick
-  - Zitate
-  - Berichte
+  - 2014 komplett
+  - 2015 komplett
+  - 2016
+    - Zitate
+    - Berichte übernehmen
+- Infos
+  - icons einfügen
+  - Fotos kopieren
+- Logo groesser
+- Kooperationen
