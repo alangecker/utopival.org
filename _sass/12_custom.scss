@@ -1,0 +1,41 @@
+.team {
+
+  li {
+    display: inline-block;
+    list-style-type: none;
+    // float: left;
+    // display: block;
+    width: 7em;
+    text-align: center;
+    margin-right: 2em;
+    margin-bottom: 2em;
+  }
+  .picture {
+    height: 7em;
+    width: 7em;
+    background-size: cover;
+    border-radius: 3.5em;
+  }
+  .name {
+    font-weight: bold;
+  }
+  a {
+    border: none;
+  }
+}
+.motive {
+  text-align: center;
+  div.icon {
+    display: inline-block;
+    color: white;
+    font-size: 3em;
+    height: 1.8em;
+    width: 1.8em;
+    padding-top:0.13em;
+    background-color: #fe940e;
+    border-radius: 50%;
+  }
+  p {
+    font-size: 0.8em;
+  }
+}

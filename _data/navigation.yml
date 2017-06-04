@@ -28,10 +28,10 @@
   side: left
 
 
-- title: "Kernteam"
+- title: "Kernteam & Kontakt"
   url: "/2017/kernteam/"
   side: right
 
-- title: "Kontakt"
-  url: "/kontakt/"
-  side: right
+# - title: "Kontakt"
+#   url: "/kontakt/"
+#   side: right
