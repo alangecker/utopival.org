@@ -1,5 +1,12 @@
+.top-bar {
+    height: 3.1rem; // because font size slightly changed
+}
+@media only screen and (min-width: 64.063em) {
+  .top-bar-section li.active:not(.has-form) a:not(.button) {
+    height: 3.1rem;
+  }
+}
 .team {
-
   li {
     display: inline-block;
     list-style-type: none;
