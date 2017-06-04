@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/nathanbirrell/jekyll-gallery-generator.git
+  remote: https://github.com/nathanbirrell/jekyll-gallery-generator.git
   revision: 0fd5eb8517f703565263e8b943b641b0cb8a4145
   specs:
     jekyll-gallery-generator (1.1)
@@ -15,9 +15,9 @@ GEM
     coderay (1.1.1)
     colorator (1.1.0)
     exifr (1.2.5)
-    faraday (0.10.0)
+    faraday (0.12.1)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.14)
+    ffi (1.9.18)
     forwardable-extended (2.6.0)
     jekyll (3.4.3)
       addressable (~> 2.4)
@@ -30,7 +30,7 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-asciidoc (2.0.1)
+    jekyll-asciidoc (2.1.0)
       asciidoctor (>= 1.5.0)
       jekyll (>= 2.3.0)
     jekyll-gist (1.4.0)
@@ -47,13 +47,13 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     multipart-post (2.0.0)
-    octokit (4.6.2)
+    octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
     rb-fsevent (0.9.8)
-    rb-inotify (0.9.7)
+    rb-inotify (0.9.8)
       ffi (>= 0.5.0)
     rmagick (2.16.0)
     rouge (1.11.1)

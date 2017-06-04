@@ -10,4 +10,4 @@ end
 
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
-gem 'jekyll-gallery-generator', :git => 'git://github.com/nathanbirrell/jekyll-gallery-generator.git'
+gem 'jekyll-gallery-generator', :git => 'https://github.com/nathanbirrell/jekyll-gallery-generator.git'
