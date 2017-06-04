@@ -1,0 +1,37 @@
+- title: News
+  url: "/"
+  side: left
+
+- title: Idee
+  url: "/idee/"
+  side: left
+
+- title: Rückblick
+  url: "/2016/rueckblick/"
+  side: left
+
+- title: Infos
+  url: "/2017/infos/"
+  side: left
+
+
+- title: Programm
+  url: "/2017/programm/"
+  side: left
+
+- title: Kooperationen
+  url: "/2017/kooperationen/"
+  side: left
+
+- title: Mitmachen
+  url: "/2017/mitmachen/"
+  side: left
+
+
+- title: "Kernteam"
+  url: "/2017/kernteam/"
+  side: right
+
+- title: "Kontakt"
+  url: "/kontakt/"
+  side: right

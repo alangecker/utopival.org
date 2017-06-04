@@ -1,0 +1,43 @@
+---
+#
+# Use the widgets beneath and the content will be
+# inserted automagically in the webpage. To make
+# this work, you have to use › layout: frontpage
+#
+layout: page
+header:
+  image_fullwidth: header.jpg
+
+permalink: /index.html
+homepage: true
+sidebar: right
+
+---
+
+{% unless site.posts == empty %}
+    <div>
+        <div class="small-12 columns">
+            {% for post in site.posts limit:10 %}
+              <div class="row">
+                <div class="small-12 columns b60">
+                  <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+                  <p>
+            					<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit">{{ post.author }}</span>
+                      <time class="icon-calendar pr20" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"> {{post.date | date: "%d.%m.%Y" }}</time>
+                  </p>
+                  <p>
+                    {% if post.image.thumb %}
+                      <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}">
+                        <img src="{{ site.urlimg }}{{ post.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ page.title |escape_once }}">
+                      </a>
+                    {% endif %}
+
+                    {{ post.content }}
+                  </p>
+                </div><!-- /.small-12.columns -->
+              </div><!-- /.row -->
+            {% endfor %}
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+{% endunless %}
