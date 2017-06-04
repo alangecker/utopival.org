@@ -29,21 +29,6 @@
   {% endif %}
 
 	<script src="{{ url }}/assets/js/modernizr.min.js"></script>
-
-	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
-	<script>
-		WebFont.load({
-			google: {
-				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
-			}
-		});
-	</script>
-
-	<noscript>
-		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
-	</noscript>
-
-
 	<!-- Search Engine Optimization -->
 	<meta name="description" content="{{ description }}">
 		{% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
@@ -73,7 +58,7 @@
 
 	<link type="text/plain" rel="author" href="{{ url}}/humans.txt">
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="https://cdn.chandi.it/jquery/3.2.1/jquery.min.js"></script>
 	{% if page.mediaplayer == true %}
 		<script src="{{ url }}/assets/mediaelement_js/mediaelement-and-player.min.js"></script>
 		<link rel="stylesheet" href="{{ url }}/assets/mediaelement_js/mediaelementplayer.min.css">
@@ -86,5 +71,7 @@
 	{% endunless %}
 
 	<link rel="stylesheet" href="https://cdn.chandi.it/font-awesome/4.7.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="https://blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
-	<script src="https://blueimp.github.io/Gallery/js/blueimp-gallery.min.js"></script>
+	<link rel="stylesheet" href="https://cdn.chandi.it/c/fonts/volkhov-regular.css">
+	<link rel="stylesheet" href="https://cdn.chandi.it/c/fonts/lato-regular.css">
+	<link rel="stylesheet" href="https://cdn.chandi.it/blueimp-gallery/2.25.0/css/blueimp-gallery.min.css">
+	<script src="https://cdn.chandi.it/blueimp-gallery/2.25.0/js/blueimp-gallery.min.js"></script>

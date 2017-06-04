@@ -313,7 +313,7 @@ body.video cite { color: #fff; }
   }
 }
 
-.social-icons {
+.soc-icons {
     margin-bottom: 10px !important;
 
 // Beware of SCSS-Syntax here
@@ -324,7 +324,9 @@ body.video cite { color: #fff; }
     font-size: rem-calc(23);
     display: block;
     width: 36px;
+    height: 36px;
     border-radius: 50%;
+    padding-top: 5px;
     color: $subfooter-bg;
     background: $subfooter-color;
     text-align: center;
