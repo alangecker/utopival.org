@@ -3,7 +3,7 @@ layout: page
 title: "Mitmachen beim Mitmachkongress"
 permalink: "/2017/mitmachen/"
 ---
-Wie Du vielleicht schon mitbekommen hast, würden wir gerne dieses Jahr noch eine Schritt weitergehen und euch als Teil des Prozesses mit einbinden – sogar schon vor der Auslosung, wenn ihr wollt. Die grundlegende Motivation dahinter ist, dass wir alte Strukturen von Konsumierenden und Veranstaltenden aufbrechen wollen und alle ein verantwortlicher Teil des ganzen Mitmachkongresses werden können. Aus diesem Grund haben wir ein Pad erstellt, dass ihr unter diesem Link findet. Schau einfach mal rein!
+Wie Du vielleicht schon mitbekommen hast, würden wir gerne dieses Jahr noch einen Schritt weiter gehen und euch als Teil des Prozesses mit einbinden – sogar schon vor der Auslosung, wenn ihr wollt. Die grundlegende Motivation dahinter ist, dass wir alte Strukturen von Konsumierenden und Veranstaltenden aufbrechen wollen und alle ein verantwortlicher Teil des ganzen Mitmachkongresses werden können. Aus diesem Grund haben wir ein Pad erstellt, dass ihr unter diesem Link findet. Schau einfach mal rein!
 
 
 => [Mitmach-Pad](https://ethercalc.org/m7jq1ikwuli6)

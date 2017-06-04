@@ -17,28 +17,28 @@ header: none
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-## Zeit
+## <i class="fa fa-clock-o"></i> Zeit
 Der Mitmachkongress utopival geht vom 30.Juli - 05.August 2017. Wir möchten eine intensive Gruppendynamik schaffen, daher wünschen wir uns von allen Anwesenheit über die gesamte Zeit. Während des utopivals gibt es drei gemeinsame Mahlzeiten am Tag und ein Angebot an Aktivitäten zu verschiedenen Uhrzeiten, es ist aber auf jeden Fall auch einige Freizeit in die Tagesplanung eingebracht. 😉
 
-## Ort
+## <i class="fa fa-location-arrow"></i> Ort
 Juhu! Der perfekte Ort für das Utopival 2017 ist gefunden: Eine Autostunde süd-östlich von Berlin liegt das wunderschöne Schlaubetal. Dort wird mitten in der Natur, an einem Ort, der Begegnung, Umweltschutz und ganzheitliche Gesundheit vereint, das Utopival stattfinden. Das Gelände des ehemaligen Ferien-Ortes für Familien liegt am Rande eines großen Naturschutzgebietes und neben einem Seminarhaus stehen viele kleine Holzhütten zwischen den Bäumen. Damit sind wir mitten im Wald und zugleich gibt es ein paar Lichtungen um die Sonne zu genießen oder ein kleines Feuerchen zu machen. Direkt gegenüber befindet sich ein großer Campingplatz an einem wunderschönen Waldsee. Badestellen, die wir nutzen können, sind einen kleinen Spaziergang von ca. 15 min entfernt.
 [Heilsames Miteinander e. V.](https://www.heilsames-miteinander.org/)
 
-## Unterbringung
+## <i class="fa fa-bed"></i> Unterbringung
 Wir werden mit unseren Zelten versteckt unter den vielen Bäumen auf dem weichen Waldboden ein kleines Wald-Dorf der Utopie errichten. Menschen, die aus irgendeinem Grund nicht Zelten können oder wollen, können sich bei uns gerne melden. Dann werden wir versuchen ein-zwei Schlaflager in den Hütten einzurichten.
 
 <img src="http://www.utopival.org/wp-content/uploads/2016/03/Zelten1.jpg" alt="">
 
-## Verpflegung
+## <i class="fa fa-spoon"></i> Verpflegung
 Mit Stolz können wir hier schreiben: Für sämtliche Teilnehmenden gibt es für die volle Zeit des Kongresses geldfreie, vegane Vollverpflegung! Wir bereiten gemeinsam drei Mahlzeiten am Tag, in denen auch auf Allergien, Unverträglichkeiten und besondere Wünsche konkret Rücksicht genommen werden kann. Die Mahlzeiten für 6 Tage für 130 Menschen werden sich zusammenstellen aus geretteten und gespendeten, großteils biologischen Lebensmitteln, die wir mit Mühe und Liebe über Monate zusammenorganisieren und bei deren Zubereitung vor Ort unsere Köch*innen von allen Teilnehmenden unterstützt werden.
 Das gemeinsame Kochen und Schnibbeln ist einer der wichtigen Mitmachaspekte dieses Mitmachkongresses und fördert neben dem Gruppengefühl auch die Wertschätzung für die luxuriösen Köstlichkeiten, die wir genießen werden – und macht außerdem einfach Spaß! Die besten Gespräche sind bis jetzt fast immer beim Schnibbeln entstanden 😀
 
 <img src="http://www.utopival.org/wp-content/uploads/2016/03/Kochen2.jpg" style="height:300px">
 
-## Sanitäre Anlagen
+## <i class="fa fa-shower"></i> Sanitäre Anlagen
 Es wird richtig luxuriöse Kompost-Toiletten modernster Bauweise geben. Außerdem haben wir ein paar Außenduschen, die uns bei Sonnenschein vermutlich sogar mit warmen Wasser verwöhnen können und der See ist wie eine riesige Badewanne für alle. Da das Wasser direkt in den Waldboden fließt haben wir die dringende Bitte an alle AUSSCHLIESSLICH (!) ökologisch abbaubares Shampoo und Duschgel oder ökologisch abbaubare Seife, sowie Zahnpasta zu verwenden!
 
-## Feuer
+## <i class="fa fa-fire"></i> Feuer
 Aufgrund des sehr trockenen Waldbodens, all den Bäumen und der höchsten Waldbrandstufe müssen wir mit offenem Feuer sehr sehr vorsichtig sein. Dennoch wird es eine gut abgesicherte Feuerstelle geben, an der wir unsere Gitarren und Liederbücher auspacken oder uns einfach nur von den magischen Flammen verzaubern lassen können. Abseits von gekennzeichneten Stellen wollen wir jedoch das Brandrisiko eindämmen und deswegen auf Kerzen, Fackeln, Feuerpois, Zigaretten, … verzichten. Wir bitten alle sich daran unbedingt zu halten.
 Jedoch dürfen sehr gern alle Arten von elektrischem Licht mitgebracht werden (Lichtpois, LED-Lämpchen, Taschenlampen...)
 
