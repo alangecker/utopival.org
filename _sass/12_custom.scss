@@ -7,7 +7,7 @@
   }
 }
 h1 {
-  color: #6b8c2b;
+  color: $primary-color;
 }
 .team {
   li {
@@ -42,7 +42,7 @@ h1 {
     height: 1.8em;
     width: 1.8em;
     padding-top:0.13em;
-    background-color: #fe940e;
+    background-color: $primary-color;
     border-radius: 50%;
   }
   h3 {
