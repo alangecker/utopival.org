@@ -247,11 +247,13 @@ gallery:
   sort_field: "date_time"   # How to sort galleries on the index page.
                             # Possible values are: title, date_time, best_image
   thumbnail_size:
-    x: 300                  # max width of thumbnails (in pixels)
-    y: 200                  # max height of thumbnails (in pixels)
+    x: 160                  # max width of thumbnails (in pixels)
+    y: 120                  # max height of thumbnails (in pixels)
   # The following options are for individual galleries.
   galleries:
+    rueckblick2015:
+      info:
+        desc: "Gallery Description" # Info fields can be used in custom templates.
     rueckblick2016:
-      best_image: IMG_1068.JPG  # The image to show on the gallery index page. Defaults to the last image.
       info:
         desc: "Gallery Description" # Info fields can be used in custom templates.
