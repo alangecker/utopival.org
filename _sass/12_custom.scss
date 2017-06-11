@@ -52,3 +52,10 @@ h1 {
     font-size: 0.8em;
   }
 }
+
+input[type="submit"] {
+  background-color: $primary-color;
+  color: white;
+  border: none;
+  padding: 0.3em 1em ;
+}

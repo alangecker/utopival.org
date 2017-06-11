@@ -1,10 +1,30 @@
+<script>
+var isSending = false;
+function registerNewsletter(form) {
+	var mail = form.email.value
+	if(isSending || !mail) return false;
+	if(!mail.match(/^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,5}$/i)) {
+		alert('Die Email-Adresse scheint ungültig zu sein')
+		return false
+	}
+	isSending = true
+	$.get('https://mails.chandi.it/api_subscribe/Hy192nIMZ?email='+encodeURIComponent(mail)).done( function(data) {
+		form.innerHTML = '<i class="fa fa-check"></i> Vielen Dank!<br />Du solltest eine E-Mail von uns bekommen. Bitte klicke auf den Link in dieser Mail um deine Adresse zu bestätigen.'
+	}).fail( function(jqXHR) {
+		isSending = false
+		alert(jqXHR.responseJSON.error)
+	});
+	return false
+}
+</script>
+
 <aside>
 	<div class="radius border-dotted ">
 		<h3>Newsletter</h3>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-			Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		</p>
+		<p>Bleib auf dem Laufenden und trag Dich in den Newsletter ein:</p>
+		<form onSubmit="return registerNewsletter(this)">
+			<input name="email" type="email" placeholder="Deine Email-Adresse" />
+			<input type="submit" value="Abschicken" />
+		</form>
 	</div>
 </aside>
