@@ -1,19 +1,17 @@
 ---
 layout: page-fullwidth
-title: "Kooperationen"
+title: "Spender*innen"
 permalink: "/2017/kooperationen/"
 # header:
 ---
-
-<h3>Ideele Kooperationen</h3>
-<p>welche das utopival ideell unterstützen</p>
-<a href=""><img src="/images/logos/janun.png"></img>
-<a href=""><img src="/images/logos/IPU.png"></img>
-<a href=""><img src="/images/logos/BUNDjugend.png"></img>
-<a href=""><img src="/images/logos/erdcharta.png"></img>
-<a href=""><img src="/images/logos/BDO.png"></img>
-<a href=""><img src="/images/logos/nfj.png"></img>
-<a href=""><img src="/images/logos/foodsharing.png"></img>
-
-<h3>Spender*innen</h3>
 <p>die das utopival durch nicht mehr verkäufliche Lebensmittel oder Spenden lebendig werden lassen</p>
+
+<ul class="companies">
+  {% assign list = site.data.kooperationen.2017_spenderinnen | sort %}
+  {% for key in list %}
+    {% assign a = site.data.companies[key] %}
+    <li>
+      <a href="{{a.url}}"><img src="/images/logos/{{a.logo}}" alt="{{a.name}}" /></a>
+    </li>
+  {% endfor %}
+</ul>

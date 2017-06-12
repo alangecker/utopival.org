@@ -34,6 +34,7 @@ h1 {
     border: none;
   }
 }
+
 .motive {
   text-align: center;
   div.icon {
@@ -51,6 +52,25 @@ h1 {
   }
   p {
     font-size: 0.8em;
+  }
+}
+.companies {
+  margin-top: 0.5em;
+  li {
+    display: inline-block;
+    list-style-type: none;
+    // float: left;
+    // display: block;
+    width: 7em;
+    text-align: center;
+    margin-right: 2em;
+    margin-bottom: 2em;
+  }
+  img {
+    max-height: 80%;
+  }
+  a {
+    border: none;
   }
 }
 
