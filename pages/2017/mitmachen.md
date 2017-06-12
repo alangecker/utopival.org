@@ -10,7 +10,7 @@ Wie Du vielleicht schon mitbekommen hast, würden wir gerne dieses Jahr noch ein
 
 ## Wieso ***Mitmach***-kongress
 
-… Weil wir die gewohnten Denkmuster in „Teilnehmer\*in“ (=Konsument\*in) und Referent\*in auflösen möchten, da jede\*r Talente in sich trägt und diese gerne in einer Gemeinschaft teilt. Außerdem denken wir, dass kollektives Wissen und damit auch die Perspektiven vieler Menschen sehr bereichernd für den Diskurs über Utopien sein kann.
+… Weil wir die gewohnten Denkmuster in „Teilnehmer\*in“ (=Konsument\*in) und Referent\*in auflösen möchten, da jede\*r Talente in sich trägt und diese gerne in einer Gemeinschaft teilt. Außerdem denken wir, dass kollektives Wissen und damit auch die Perspektiven vieler Menschen sehr bereichernd für den Diskurs über Utopien sein können.
 
 … Weil es in einer zukunftsfähigen Gesellschaft nur miteinander geht. Wir alle bringen unsere Motivation, Freude und unseren Tatendrang zusammen und erschaffen neue Ideen und Projekte. Gemeinsam gestalten wir den Wandel.
 
