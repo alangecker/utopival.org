@@ -6,7 +6,6 @@
     email: pia.b@utopival.org
     image: pia.jpg
   - name: Helena
-    #email: inanna@livingutopia.org
     image: helena.jpg
   - name: Juli
     image: juli.jpg
@@ -28,3 +27,16 @@
     image: nadine.jpg
   - name: Tobi
     image: tobi.jpg
+
+
+"2016":
+  - name: Lisa
+    image: 'lisa.jpg'
+  - name: Doreen
+    image: 'doreen.jpg'
+  - name: Olli
+    image: 'olli.jpg'
+  - name: Vera
+    image: 'vera.jpg'
+  - name: Inanna
+    image: 'inanna.jpg'

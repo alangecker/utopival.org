@@ -8,12 +8,21 @@ header:
 ---
 
 
-
-
-
-
 {% gallery rueckblick2016 %}
 
+
+<h2>Das Orgateam</h2>
+{% assign team = site.data.teams.2016 %}
+<ul class="team">
+  {% for m in team %}
+    <li>
+      <div class="picture" style="background-image:url('{{site.urlimg}}/menschen/{{m.image}}')"></div>
+      <div class="name">{{ m.name }}</div>
+    </li>
+  {% endfor %}
+</ul>
+<h4>Dank auch an die Teamer*innen:</h4>
+Gina, Sandy, Boris, Jens, Cosima, Maria, Karl und Nesreen
 
 <h2>Berichte</h2>
 <ul>
