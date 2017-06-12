@@ -1,10 +1,15 @@
+{% if page.jahr %}
+	{% assign logo = site.baseurl | append:'/images/' | append:page.jahr | append:'/logo.png' %}
+{% else %}
+	{% assign logo = site.baseurl | append:'/images/' | append:site.logo %}
+{% endif %}
 {% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
 
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.baseurl }}/images/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+				<img src="{{ logo }}" alt="{{ site.title }} – {{ site.slogan }}">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -52,7 +57,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.baseurl }}/images/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+				<img src="{{ logo }}" alt="{{ site.title }} – {{ site.slogan }}">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
