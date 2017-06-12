@@ -9,13 +9,13 @@
 - title: Rückblick
   url: "/2016/rueckblick/"
   side: left
-  dropdown:
-  - title: "Utopival 2014"
-    url: "/2014/rueckblick/"
-  - title: "Utopival 2015"
-    url: "/2015/rueckblick/"
-  - title: "Utopival 2016"
-    url: "/2016/rueckblick/"
+  # dropdown:
+  # - title: "Utopival 2014"
+  #   url: "/2014/rueckblick/"
+  # - title: "Utopival 2015"
+  #   url: "/2015/rueckblick/"
+  # - title: "Utopival 2016"
+  #   url: "/2016/rueckblick/"
 
 - title: Infos
   url: "/2017/infos/"
