@@ -27,13 +27,13 @@ Juhu! Der perfekte Ort für das Utopival 2017 ist gefunden: Eine Autostunde süd
 ## <i class="fa fa-bed"></i> Unterbringung
 Wir werden mit unseren Zelten versteckt unter den vielen Bäumen auf dem weichen Waldboden ein kleines Wald-Dorf der Utopie errichten. Menschen, die aus irgendeinem Grund nicht Zelten können oder wollen, können sich bei uns gerne melden. Dann werden wir versuchen ein-zwei Schlaflager in den Hütten einzurichten.
 
-<img src="http://www.utopival.org/wp-content/uploads/2016/03/Zelten1.jpg" alt="">
+<img src="/images/zelte.jpg" alt="">
 
 ## <i class="fa fa-spoon"></i> Verpflegung
 Mit Stolz können wir hier schreiben: Für sämtliche Teilnehmenden gibt es für die volle Zeit des Kongresses geldfreie, vegane Vollverpflegung! Wir bereiten gemeinsam drei Mahlzeiten am Tag, in denen auch auf Allergien, Unverträglichkeiten und besondere Wünsche konkret Rücksicht genommen werden kann. Die Mahlzeiten für 6 Tage für 130 Menschen werden sich zusammenstellen aus geretteten und gespendeten, großteils biologischen Lebensmitteln, die wir mit Mühe und Liebe über Monate zusammenorganisieren und bei deren Zubereitung vor Ort unsere Köch*innen von allen Teilnehmenden unterstützt werden.
 Das gemeinsame Kochen und Schnibbeln ist einer der wichtigen Mitmachaspekte dieses Mitmachkongresses und fördert neben dem Gruppengefühl auch die Wertschätzung für die luxuriösen Köstlichkeiten, die wir genießen werden – und macht außerdem einfach Spaß! Die besten Gespräche sind bis jetzt fast immer beim Schnibbeln entstanden 😀
 
-<img src="http://www.utopival.org/wp-content/uploads/2016/03/Kochen2.jpg" style="height:300px">
+<img src="/images/mampf.jpg" style="height:300px">
 
 ## <i class="fa fa-shower"></i> Sanitäre Anlagen
 Es wird richtig luxuriöse Kompost-Toiletten modernster Bauweise geben. Außerdem haben wir ein paar Außenduschen, die uns bei Sonnenschein vermutlich sogar mit warmen Wasser verwöhnen können und der See ist wie eine riesige Badewanne für alle. Da das Wasser direkt in den Waldboden fließt haben wir die dringende Bitte an alle AUSSCHLIESSLICH (!) ökologisch abbaubares Shampoo und Duschgel oder ökologisch abbaubare Seife, sowie Zahnpasta zu verwenden!
