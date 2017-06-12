@@ -11,6 +11,16 @@ header:
 
 {% gallery rueckblick2015 %}
 
+<h2>Das Orgateam</h2>
+{% assign team = site.data.teams.2015 %}
+<ul class="team">
+  {% for m in team %}
+    <li>
+      <div class="picture" style="background-image:url('{{site.urlimg}}/menschen/{{m.image}}')"></div>
+      <div class="name">{{ m.name }}</div>
+    </li>
+  {% endfor %}
+</ul>
 
 <h2>Berichte</h2>
 <ul>
@@ -22,10 +32,11 @@ header:
 </ul>
 
 <h2>Presse</h2>
+
 <ul>
   {% for p in site.data.presse %}
     {% assign year = p.date | date: "%Y" %}
-    {% if p.link and year == "2015"  %}
+    {% if p.link and year == "2016"  %}
       <li><a href="{{ p.link }}">{{ p.title }}</a></li>
     {% endif %}
   {% endfor %}

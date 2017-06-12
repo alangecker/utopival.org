@@ -27,6 +27,8 @@
     image: nadine.jpg
   - name: Tobi
     image: tobi.jpg
+  - name: Tom
+    image: tom.jpg
 
 
 "2016":
@@ -40,3 +42,22 @@
     image: 'vera.jpg'
   - name: Inanna
     image: 'inanna.jpg'
+
+
+"2015":
+  - name: Daniel
+    image: 'daniel.jpg'
+  - name: Pia
+    image: 'piad.jpg'
+  - name: Tobi
+    image: 'amala.jpg'
+  - name: Tinka
+    image: 'tinka.jpg'
+  - name: Lotte
+    image: 'lotte.jpg'
+  - name: Scarlett
+    image: 'scarlett.jpg'
+  - name: Carina
+    image: 'carina.jpg'
+  - name: Marius
+    image: 'marius.jpg'

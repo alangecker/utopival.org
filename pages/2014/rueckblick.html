@@ -12,6 +12,17 @@ header:
 {% gallery rueckblick2014 %}
 
 
+<h2>Das Orgateam</h2>
+{% assign team = site.data.teams.2014 %}
+<ul class="team">
+  {% for m in team %}
+    <li>
+      <div class="picture" style="background-image:url('{{site.urlimg}}/menschen/{{m.image}}')"></div>
+      <div class="name">{{ m.name }}</div>
+    </li>
+  {% endfor %}
+</ul>
+
 <h2>Berichte</h2>
 <ul>
   {% for site in site.pages %}
