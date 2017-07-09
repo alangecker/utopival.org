@@ -8,7 +8,7 @@ permalink: "/2017/kernteam/"
   {% for m in team %}
     <li>
       <div class="picture" style="background-image:url('{{site.urlimg}}/menschen/{{m.image}}')"></div>
-      <div class="name">{{ m.name }} {% if m.email %}<a class="icon-mail" href="mail:{{ m.email }}"></a>{% endif %}</div>
+      <div class="name">{{ m.name }} {% if m.email %}<a class="icon-mail" href="mailto:{{ m.email }}"></a>{% endif %}</div>
     </li>
   {% endfor %}
 </ul>
