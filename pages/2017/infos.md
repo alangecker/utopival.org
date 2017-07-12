@@ -23,13 +23,14 @@ Der Mitmachkongress utopival geht vom 30.Juli - 05.August 2017. Wir möchten ein
 ## <i class="fa fa-location-arrow"></i> Ort
 Juhu! Der perfekte Ort für das Utopival 2017 ist gefunden: Eine Autostunde süd-östlich von Berlin liegt das wunderschöne Schlaubetal. Dort wird mitten in der Natur, an einem Ort, der Begegnung, Umweltschutz und ganzheitliche Gesundheit vereint, das Utopival stattfinden. Das Gelände des ehemaligen Ferien-Ortes für Familien liegt am Rande eines großen Naturschutzgebietes und neben einem Seminarhaus stehen viele kleine Holzhütten zwischen den Bäumen. Damit sind wir mitten im Wald und zugleich gibt es ein paar Lichtungen um die Sonne zu genießen oder ein kleines Feuerchen zu machen. Direkt gegenüber befindet sich ein großer Campingplatz an einem wunderschönen Waldsee. Badestellen, die wir nutzen können, sind einen kleinen Spaziergang von ca. 15 min entfernt.
 
+
+
+## Anfahrt
+
 #### Adresse
 
 [Heilsames Miteinander e.v.<br>
 Mahlheide 1, 15890 Siehdichum](http://www.openstreetmap.org/directions?route=%3B52.18487%2C14.44230#map=15/52.1864/14.4423)
-
-
-## Anfahrt
 
 #### Trampen
 Wenn du trampst, kannst du über den Berliner Ring(A10)  westlich auf die A12 fahren und an der Ausfahrt 7 "Müllrose" aussteigen und der L37 bis Mixdorf oder Schernsdorf zu folgen. In Mixdorf links Richtung Schernsdorf abbiegen - es sind noch ca. 3,4km. Wenn du über Schernsdorf kommst, biegst du dort rechts ab, es sind noch 1,8km.
