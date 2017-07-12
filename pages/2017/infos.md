@@ -22,8 +22,23 @@ Der Mitmachkongress utopival geht vom 30.Juli - 05.August 2017. Wir möchten ein
 
 ## <i class="fa fa-location-arrow"></i> Ort
 Juhu! Der perfekte Ort für das Utopival 2017 ist gefunden: Eine Autostunde süd-östlich von Berlin liegt das wunderschöne Schlaubetal. Dort wird mitten in der Natur, an einem Ort, der Begegnung, Umweltschutz und ganzheitliche Gesundheit vereint, das Utopival stattfinden. Das Gelände des ehemaligen Ferien-Ortes für Familien liegt am Rande eines großen Naturschutzgebietes und neben einem Seminarhaus stehen viele kleine Holzhütten zwischen den Bäumen. Damit sind wir mitten im Wald und zugleich gibt es ein paar Lichtungen um die Sonne zu genießen oder ein kleines Feuerchen zu machen. Direkt gegenüber befindet sich ein großer Campingplatz an einem wunderschönen Waldsee. Badestellen, die wir nutzen können, sind einen kleinen Spaziergang von ca. 15 min entfernt.
-[Heilsames Miteinander e. V.](https://www.heilsames-miteinander.org/)
 
+**Adresse**
+[Heilsames Miteinander e.v.]
+Mahlheide 1, 15890 Siehdichum
+(http://www.openstreetmap.org/directions?route=%3B52.18487%2C14.44230#map=15/52.1864/14.4423)
+
+### Anfahrt
+
+####Trampen
+Wenn du trampst, kannst du über den Berliner Ring(A10)  westlich auf die A12 fahren und an der Ausfahrt 7 "Müllrose" aussteigen und der L37 bis Mixdorf oder Schernsdorf zu folgen. In Mixdorf links Richtung Schernsdorf abbiegen - es sind noch ca. 3,4km. Wenn du über Schernsdorf kommst, biegst du dort rechts ab, es sind noch 1,8km.
+
+####Bahn
+Mit der Bahn fährst du mit dem RE1 bis Frankfurt(Oder) und anschließend mit dem NEB Richtung Königs Wusterhausen bis Mixdorf. Anschließend ist ein Fußweg von ca. 1km bis ins Dorf. Dort fährt der A400-Bus 3 (!) Mal sonntäglich bis "Siehdichum, Schernsdorf Schervenzsee".
+Abfahrtzeiten in Mixdorf, Dorf sind: 10.40 Uhr, 15.27 Uhr, 17.27 Uhr.
+Wenn du fit zu Fuße bist, sind es noch 3,4km bis zum Ort, folge der Straße Richtung Schernsdorf.
+Am Vormittag ist auch eine Anreise über Mixdorf möglich. Bei deiner Suche kannst du "Siehdichum, Schernsdorf Schervenzsee" eingeben.
+Bildet Bahngemeinschaften und teilt euch ein Berlin Brandenburg-Ticket (29 Euro durch Anzahl der Personen, gilt für bis zu 5 Personen). Das Ticket gilt auch im Bus.
 
 ## <i class="fa fa-bed"></i> Unterbringung
 Wir werden mit unseren Zelten versteckt unter den vielen Bäumen auf dem weichen Waldboden ein kleines Wald-Dorf der Utopie errichten. Menschen, die aus irgendeinem Grund nicht Zelten können oder wollen, können sich bei uns gerne melden. Dann werden wir versuchen ein-zwei Schlaflager in den Hütten einzurichten.
