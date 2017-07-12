@@ -24,6 +24,7 @@ Der Mitmachkongress utopival geht vom 30.Juli - 05.August 2017. Wir möchten ein
 Juhu! Der perfekte Ort für das Utopival 2017 ist gefunden: Eine Autostunde süd-östlich von Berlin liegt das wunderschöne Schlaubetal. Dort wird mitten in der Natur, an einem Ort, der Begegnung, Umweltschutz und ganzheitliche Gesundheit vereint, das Utopival stattfinden. Das Gelände des ehemaligen Ferien-Ortes für Familien liegt am Rande eines großen Naturschutzgebietes und neben einem Seminarhaus stehen viele kleine Holzhütten zwischen den Bäumen. Damit sind wir mitten im Wald und zugleich gibt es ein paar Lichtungen um die Sonne zu genießen oder ein kleines Feuerchen zu machen. Direkt gegenüber befindet sich ein großer Campingplatz an einem wunderschönen Waldsee. Badestellen, die wir nutzen können, sind einen kleinen Spaziergang von ca. 15 min entfernt.
 [Heilsames Miteinander e. V.](https://www.heilsames-miteinander.org/)
 
+
 ## <i class="fa fa-bed"></i> Unterbringung
 Wir werden mit unseren Zelten versteckt unter den vielen Bäumen auf dem weichen Waldboden ein kleines Wald-Dorf der Utopie errichten. Menschen, die aus irgendeinem Grund nicht Zelten können oder wollen, können sich bei uns gerne melden. Dann werden wir versuchen ein-zwei Schlaflager in den Hütten einzurichten.
 
@@ -66,20 +67,32 @@ Wir freuen uns darauf mit euch gemeinsam auf dem utopival eine angenehme Atmosph
 Die Teilnahme am utopival findet auf rechtlicher Ebene auf eigene Verantwortung statt, wir vom Orgateam können nicht haften.
 
 ## Mitbringliste
-- Zelt, Schlafsack, Isomatte
+- Zelt und/oder Hängematte, Schlafsack, Isomatte
 - Stirnlampe oder Taschenlampe
-- Teller und/oder Schüssel, Besteck, Becher/Flasche (Ein bisschen was haben wir auch da, falls es wer vergisst. Trinkflasche aber unbedingt mitbringen!)
+- Kerzen
+- Trinkflaschen
+- Teller/Schüsseln (Ein bisschen was haben wir auch da, falls es wer vergisst)
 - warme und regenfeste Kleidung für alle Fälle
-- Handtuch
-- Badesachen
+- Handtuch, Badesachen
 
-#### Außerdem vielleicht noch
-- Jonglagezeug, Musikinstrumente, Slacklines, Hängematte, ... (es gibt viele tolle Bäume!)
-- Kinderschminke o.ä.
-- Beitragidee für die Open Stage
+#### wobei wir noch eure Hilfe brauchen
+- erste Hilfe Material
+- bitte jede\*r eine Rolle Toilettenpapier
+- bitte jede\*r ein paar Müllsäcke (gelber Sack)
+
+#### Außerdem gerne
+- Jonglagezeug
+- Musikinstrumente
+- Slacklines
+- Yogamatte
+- Kinderschminke, Henna, Knüpfbändchen o.ä.
 - Zu Verschenkendes für die Verschenke-Ecke
+- "aufbereitetes Wissen" (wenn ihr euer Shampoo selber macht: Rezept dazu, etc.)
 - Deko fürs Gelände
-- Insektenspray, Sonnencreme
+- Insektenspray
+- Bücher zum gegenseitigen vorlesen und drüber diskutieren
+- Beitragidee für Open Stages (Texte, Gedichte, Geschichten, Lieder...)
+- Fragen zu denen ihr euch austauschen wollt
 - Fantastische Laune, Ideen und alles, was du sonst noch so zum Wohlfühlen brauchst
 
 #### Was gern zuhause bleiben darf
