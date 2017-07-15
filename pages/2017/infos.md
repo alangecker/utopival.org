@@ -91,11 +91,12 @@ Die Teilnahme am utopival findet auf rechtlicher Ebene auf eigene Verantwortung 
 - Teller/Schüsseln (Ein bisschen was haben wir auch da, falls es wer vergisst)
 - warme und regenfeste Kleidung für alle Fälle
 - Handtuch, Badesachen
+- ökologisch abbaubares Shampoo/Duschgel/Seife (bio ist nicht gleichzusetzen mit ökologisch abbaubar!!!)
 
 #### wobei wir noch eure Hilfe brauchen
 - erste Hilfe Material
-- bitte jede\*r eine Rolle Toilettenpapier
-- bitte jede\*r ein paar Müllsäcke (gelber Sack)
+- bitte jede\*r eine Rolle Toilettenpapier mitbringen!!!
+- bitte jede\*r ein paar Müllsäcke (gelber Sack) mitbringen!!! 
 
 #### Außerdem gerne
 - Jonglagezeug
