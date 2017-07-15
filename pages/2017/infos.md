@@ -61,7 +61,7 @@ Aufgrund des sehr trockenen Waldbodens, all den Bäumen und der höchsten Waldbr
 Jedoch dürfen sehr gern alle Arten von elektrischem Licht mitgebracht werden (Lichtpois, LED-Lämpchen, Taschenlampen...)
 
 ## Tiere
-Falls du nicht-menschliche Begleiter*innen hast, die nicht Zuhause bleiben können, wäre es wichtig uns darüber zu informieren. Es gibt bereits zwei andere Hunde auf dem Gelände und wir werden versuchen Orte und Möglichkeiten zu finden mit denen sich alle wohlfühlen und wir niemanden ausschließen müssen.
+Es gibt bereits zwei Hunde auf dem Gelände, die diesen als ihr Zuhause sehen und sich bedroht fühlen, wenn andere nichtmenschliche Tiere kommen. Daher müssen wir euch leider bitten für eure Hunde Zuhause zu lassen. 
 
 ## Drogenfrei
 Wir wollen während dieser sechs Tage unseren Fokus auf intensiven zwischenmenschlichen Austausch und auf gemeinsame Erfahrungen legen und möchten dafür auf dem Gelände einen möglichst drogenfreien Raum schaffen, in dem sich keine durch Drogen bedingten Barrieren für Menschen ergeben. Es geht dabei auch um ein Gefühl der Sicherheit und Echtheit, welches durch Drogen in vielen Kontexten eingeschränkt werden kann. Kaffee, Tee, Schokolade, Zucker oder Ähnliches schließen wir da nicht mit ein, und falls du rauchen oder ein Bier trinken willst, darfst du das auch, aber dann bitte einfach außerhalb des Geländes. Oder vielleicht ist es ja sogar interessant dich an diesen sechs Tagen ganz davon zu lösen?
@@ -96,7 +96,7 @@ Die Teilnahme am utopival findet auf rechtlicher Ebene auf eigene Verantwortung 
 #### wobei wir noch eure Hilfe brauchen
 - erste Hilfe Material
 - bitte jede\*r eine Rolle Toilettenpapier mitbringen!!!
-- bitte jede\*r ein paar Müllsäcke (gelber Sack) mitbringen!!! 
+- bitte jede\*r ein paar Müllsäcke (gelber Sack) mitbringen!!! t
 
 #### Außerdem gerne
 - Jonglagezeug
