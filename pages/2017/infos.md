@@ -33,7 +33,7 @@ Juhu! Der perfekte Ort für das Utopival 2017 ist gefunden: Eine Autostunde süd
 Mahlheide 1, 15890 Siehdichum](http://www.openstreetmap.org/directions?route=%3B52.18487%2C14.44230#map=15/52.1864/14.4423)
 
 #### Trampen
-Wenn du trampst, kannst du über den Berliner Ring(A10)  westlich auf die A12 fahren und an der Ausfahrt 7 "Müllrose" aussteigen und der L37 bis Mixdorf oder Schernsdorf zu folgen. In Mixdorf links Richtung Schernsdorf abbiegen - es sind noch ca. 3,4km. Wenn du über Schernsdorf kommst, biegst du dort rechts ab, es sind noch 1,8km.
+Wenn du trampst, kannst du über den Berliner Ring(A10)  westlich auf die A12 fahren und an der Ausfahrt 7 "Müllrose" aussteigen. In der Dorfmitte geht dann links eine Abzweigung nach Eisenhüttenstadt. Wenn du dieser folgst, kommst du nach Schernsdorf - es sind noch ca. 3,4km. Wenn du über Schernsdorf kommst, biegst du dort rechts ab, es sind noch 1,8km.
 
 #### Bahn
 Mit der Bahn fährst du mit dem RE1 bis Frankfurt(Oder) und anschließend mit dem NEB Richtung Königs Wusterhausen bis Mixdorf. Anschließend ist ein Fußweg von ca. 1km bis ins Dorf. Dort fährt der A400-Bus 3 (!) Mal an Freitagen, Samstagen und Sonntagen bis "Siehdichum, Schernsdorf Schervenzsee".
