@@ -36,10 +36,10 @@ Mahlheide 1, 15890 Siehdichum](http://www.openstreetmap.org/directions?route=%3B
 Wenn du trampst, kannst du über den Berliner Ring(A10)  westlich auf die A12 fahren und an der Ausfahrt 7 "Müllrose" aussteigen und der L37 bis Mixdorf oder Schernsdorf zu folgen. In Mixdorf links Richtung Schernsdorf abbiegen - es sind noch ca. 3,4km. Wenn du über Schernsdorf kommst, biegst du dort rechts ab, es sind noch 1,8km.
 
 #### Bahn
-Mit der Bahn fährst du mit dem RE1 bis Frankfurt(Oder) und anschließend mit dem NEB Richtung Königs Wusterhausen bis Mixdorf. Anschließend ist ein Fußweg von ca. 1km bis ins Dorf. Dort fährt der A400-Bus 3 (!) Mal sonntäglich bis "Siehdichum, Schernsdorf Schervenzsee".
+Mit der Bahn fährst du mit dem RE1 bis Frankfurt(Oder) und anschließend mit dem NEB Richtung Königs Wusterhausen bis Mixdorf. Anschließend ist ein Fußweg von ca. 1km bis ins Dorf. Dort fährt der A400-Bus 3 (!) Mal an Freitagen, Samstagen und Sonntagen bis "Siehdichum, Schernsdorf Schervenzsee".
 Abfahrtzeiten in Mixdorf, Dorf sind: 10.40 Uhr, 15.27 Uhr, 17.27 Uhr.
 Wenn du fit zu Fuße bist, sind es noch 3,4km bis zum Ort, folge der Straße Richtung Schernsdorf.
-Am Vormittag ist auch eine Anreise über Mixdorf möglich. Bei deiner Suche kannst du "Siehdichum, Schernsdorf Schervenzsee" eingeben.
+Am Vormittag ist auch eine Anreise über Mixdorf möglich. Bei deiner Suche auf bahn.de kannst du "Siehdichum, Schernsdorf Schervenzsee" eingeben.
 Bildet Bahngemeinschaften und teilt euch ein Berlin Brandenburg-Ticket (29 Euro durch Anzahl der Personen, gilt für bis zu 5 Personen). Das Ticket gilt auch im Bus.
 
 ## <i class="fa fa-bed"></i> Unterbringung
@@ -61,7 +61,7 @@ Aufgrund des sehr trockenen Waldbodens, all den Bäumen und der höchsten Waldbr
 Jedoch dürfen sehr gern alle Arten von elektrischem Licht mitgebracht werden (Lichtpois, LED-Lämpchen, Taschenlampen...)
 
 ## Tiere
-Es gibt bereits zwei Hunde auf dem Gelände, die diesen als ihr Zuhause sehen und sich bedroht fühlen, wenn andere nichtmenschliche Tiere kommen. Daher müssen wir euch leider bitten für eure Hunde Zuhause zu lassen. 
+Es gibt bereits zwei Hunde auf dem Gelände, die diesen als ihr Zuhause sehen und sich bedroht fühlen, wenn andere nichtmenschliche Tiere kommen. Daher müssen wir euch leider bitten für eure Hunde Zuhause zu lassen.
 
 ## Drogenfrei
 Wir wollen während dieser sechs Tage unseren Fokus auf intensiven zwischenmenschlichen Austausch und auf gemeinsame Erfahrungen legen und möchten dafür auf dem Gelände einen möglichst drogenfreien Raum schaffen, in dem sich keine durch Drogen bedingten Barrieren für Menschen ergeben. Es geht dabei auch um ein Gefühl der Sicherheit und Echtheit, welches durch Drogen in vielen Kontexten eingeschränkt werden kann. Kaffee, Tee, Schokolade, Zucker oder Ähnliches schließen wir da nicht mit ein, und falls du rauchen oder ein Bier trinken willst, darfst du das auch, aber dann bitte einfach außerhalb des Geländes. Oder vielleicht ist es ja sogar interessant dich an diesen sechs Tagen ganz davon zu lösen?
