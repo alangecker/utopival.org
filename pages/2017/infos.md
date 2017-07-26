@@ -96,11 +96,11 @@ Die Teilnahme am utopival findet auf rechtlicher Ebene auf eigene Verantwortung 
 #### wobei wir noch eure Hilfe brauchen
 - erste Hilfe Material
 - bitte jede\*r eine Rolle Toilettenpapier mitbringen!!!
-- bitte jede\*r ein paar Müllsäcke (gelber Sack) mitbringen!!! t
+- bitte jede\*r ein paar Müllsäcke (gelber Sack) mitbringen!!!
+- E-Bass
 
 #### Außerdem gerne
 - Jonglagezeug
-- Musikinstrumente
 - Slacklines
 - Yogamatte
 - Kinderschminke, Henna, Knüpfbändchen o.ä.
