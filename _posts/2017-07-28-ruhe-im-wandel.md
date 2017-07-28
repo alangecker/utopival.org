@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Freitag: Ruhe im Wandel"
-date: 26. Juli 17
+date: 28. Juli 17
 author: chandi
 header:
     image_fullwidth: 2017/aufbau_fr.jpg
