@@ -7,15 +7,17 @@
   side: left
 
 - title: Rückblick
-  url: "/2016/rueckblick/"
+  url: "/2017/rueckblick/"
   side: left
-  # dropdown:
+  dropdown:
   # - title: "Utopival 2014"
   #   url: "/2014/rueckblick/"
   # - title: "Utopival 2015"
   #   url: "/2015/rueckblick/"
-  # - title: "Utopival 2016"
-  #   url: "/2016/rueckblick/"
+  - title: "Utopival 2016"
+    url: "/2016/rueckblick/"
+  - title: "Utopival 2017"
+    url: "/2017/rueckblick/"
 
 - title: Infos
   url: "/2017/infos/"
@@ -33,7 +35,7 @@
 - title: Mitmachen
   url: "/2017/mitmachen/"
   side: left
-  
+
 - title: Anmeldung
   url: "/2017/anmeldung/"
   side: left
