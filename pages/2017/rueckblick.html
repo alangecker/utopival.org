@@ -1,0 +1,28 @@
+---
+layout: page-fullwidth
+title: "Rückblick aufs Utopival 2017"
+permalink: "/2017/rueckblick/"
+header:
+  image_fullwidth: 2017/blog_sonntag.jpg
+  title: ''
+---
+
+<h4>Aufbau</h4>
+<p>Wird noch nachgetragen... :)
+<h4>Sonntag</h4>
+{% gallery rueckblick2017_sonntag %}
+
+
+<h2>Das Vorbereitungsteam</h2>
+{% assign team = site.data.teams.2017 %}
+<ul class="team">
+  {% for m in team %}
+    <li>
+      <div class="picture" style="background-image:url('{{site.urlimg}}/menschen/{{m.image}}')"></div>
+      <div class="name">{{ m.name }}</div>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Berichte</h2>
+<p>Schick uns doch gern deine Erfahrungen! :) <a href="mailto:kontakt@utopival.org">kontakt@utopival.org</a></p>
