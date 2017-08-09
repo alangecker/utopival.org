@@ -3,14 +3,10 @@ layout: page-fullwidth
 title: "Rückblick aufs Utopival 2017"
 permalink: "/2017/rueckblick/"
 header:
-  image_fullwidth: 2017/blog_sonntag.jpg
+  image_fullwidth: 2017/rueckblick.jpg
   title: ''
 ---
-
-<h4>Aufbau</h4>
-<p>Wird noch nachgetragen... :)
-<h4>Sonntag</h4>
-{% gallery rueckblick2017_sonntag %}
+{% gallery rueckblick2017 %}
 
 
 <h2>Das Vorbereitungsteam</h2>
@@ -24,5 +20,12 @@ header:
   {% endfor %}
 </ul>
 
-<h2>Berichte</h2>
+<h2>Berichte / Gedichte</h2>
+<ul>
+  {% for site in site.pages %}
+    {% if site.type == 'bericht' and site.jahr == 2017  %}
+      <li><a href="{{ site.permalink }}">{{ site.title }} | {{ site.subheadline }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 <p>Schick uns doch gern deine Erfahrungen! :) <a href="mailto:kontakt@utopival.org">kontakt@utopival.org</a></p>

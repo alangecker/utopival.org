@@ -1,0 +1,17 @@
+---
+layout: page-fullwidth
+title: "Spender*innen"
+permalink: "/2017/kooperationen/"
+# header:
+---
+<p>die das utopival durch nicht mehr verkäufliche Lebensmittel oder Spenden lebendig werden lassen</p>
+
+<ul class="companies">
+  {% assign list = site.data.kooperationen.2017_spenderinnen | sort %}
+  {% for key in list %}
+    {% assign a = site.data.companies[key] %}
+    <li>
+      <a href="{{a.url}}"><img src="/images/logos/{{a.logo}}" alt="{{a.name}}" /></a>
+    </li>
+  {% endfor %}
+</ul>
