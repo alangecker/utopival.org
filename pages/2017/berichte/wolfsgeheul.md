@@ -3,7 +3,7 @@ layout: page
 type: bericht
 jahr: 2017
 title: "wolfsgeheul"
-subheadline: "findus" (vorbereitungsteam)
+subheadline: "findus (vorbereitungsteam)"
 permalink: "/2017/rückblick/wolfsgeheul.html"
 bodyclass: center
 ---
